@@ -1,0 +1,23 @@
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\bin\Debug\Patient Database.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\bin\Debug\Patient Database.exe
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\bin\Debug\Patient Database.pdb
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient Database.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient_Database.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient Database.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient Database.exe
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient Database.pdb
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient_Database.Main.MainFrameUC.resources
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient_Database.Main.MainForm.resources
+c:\users\alex\documents\visual studio 2017\Projects\Patient Database\Patient Database\obj\Debug\Patient_Database.Manager.ManagerUC.resources
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\bin\Debug\Patient Database.exe.config
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\bin\Debug\Patient Database.exe
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\bin\Debug\Patient Database.pdb
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient Database.csprojResolveAssemblyReference.cache
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient_Database.Manager.ManagerUC.resources
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient_Database.Properties.Resources.resources
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient Database.csproj.GenerateResource.Cache
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient Database.exe
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient Database.pdb
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient_Database.Manager.Info.InfoUC.resources
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient_Database.MainFrame.MainFrameUC.resources
+E:\Programming\Heatlhcare Management System\Patient Database Remake\Patient Database\Patient Database\obj\Debug\Patient_Database.Main.MainForm.resources

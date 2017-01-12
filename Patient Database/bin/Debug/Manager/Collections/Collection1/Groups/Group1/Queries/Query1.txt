@@ -1,0 +1,4 @@
+Query
+Name:Query1
+Info:This is a test query
+Statement:WHERE Age > 18 / AND Gender = 'Male'

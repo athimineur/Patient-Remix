@@ -1,0 +1,4 @@
+Query
+Name:Query2
+Info:This is a test query
+Statement:WHERE MED <= 250
